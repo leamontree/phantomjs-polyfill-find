@@ -1,4 +1,4 @@
-/if (!Array.prototype.fill) {
+if (!Array.prototype.fill) {
   Object.defineProperty(Array.prototype, 'fill', {
     value: function(value) {
 
