@@ -2,7 +2,7 @@
   "name": "phantomjs-polyfill-fill",
   "version": "0.0.1",
   "description": "Polyfill for Array.prototype.fill",
-  "main": "find-polyfill.js",
+  "main": "fill-polyfill.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:ptim/phantomjs-polyfill-find.git"
